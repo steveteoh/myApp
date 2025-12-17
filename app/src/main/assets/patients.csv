@@ -1,0 +1,3 @@
+bil,zon,region,address,patients,latitude,longitude,contact_name,contact_phone,status
+1,B1,GOMBAK SETIA,"JALAN SEKOLAH, GOMBAK SETIA 53100 SELANGOR",1,3.2170612876112217,101.71474789329302,Mat Rahim,012-3456789,Stable
+2,B2,TAMAN MELATI,"JALAN INTAN, TAMAN MELATI 53100 SELANGOR",3,3.2245,101.7321,Nurul Aini,017-2223344,Needs follow-up
