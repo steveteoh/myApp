@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Patient Tracker</string>
+    <string name="location_permission_rationale">We use your location to show where you are relative to patients.</string>
+</resources>
